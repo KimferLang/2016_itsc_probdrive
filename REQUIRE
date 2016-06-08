@@ -1,0 +1,12 @@
+julia 0.4
+
+DataArrays
+DataFrames
+Discretizers
+JLD
+LaTeXStrings
+StreamStats
+LightGraphs
+
+Compat
+Lint
